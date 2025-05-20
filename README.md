@@ -1,2 +1,2 @@
-# sailpoint-labs
-Working on SailPoint projects
+# SailPoint Labs
+Practice environment for SailPoint IdentityIQ development.

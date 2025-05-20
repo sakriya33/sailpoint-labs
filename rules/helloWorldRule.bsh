@@ -1,0 +1,6 @@
+import sailpoint.object.*;
+import java.util.*;
+
+public String helloWorld(RuleContext context) {
+	return "Hello, Sailoint!";
+}

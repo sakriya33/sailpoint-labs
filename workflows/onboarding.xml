@@ -1,0 +1,3 @@
+<Workflow name="Onbaoarding">
+	<Step name = "Create Account" type= "provisioning"/>
+</Workflow>
